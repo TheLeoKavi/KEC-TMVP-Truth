@@ -1,12 +1,12 @@
 ---
 layout: default
-title: KECvTMVP Truth!
+title: KECvTMVP - Truth!
 ---
 
-# KECvTMVP Truth
+# KECvTMVP - Truth!
 
 ## How it started
-_(with screenshots for proof)_
+_(with screenshots!)_
 
 1. I showed openly and honestly what I wanted. I labeled the Landmark “*Future* Strike”, so **my team would not attack before talks**, and a “Stop” pin, so my team **would not go further** *if* we did get the landmark. I also explained why I thought it would be good for both of us. I expected a negotiation.
 2. I pointed out that (at that time) we were evenly matched and should not fight.
