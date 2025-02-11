@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KECvTMVP Truth
+title: KECvTMVP Truth!
 ---
 
 # KECvTMVP Truth
