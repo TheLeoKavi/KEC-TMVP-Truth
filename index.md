@@ -18,12 +18,12 @@ _(with screenshots for proof)_
 7. Then I asked for clarification about the apparent threat from [KEC]Leader, and **restated I wanted peace**, but would fight only **if necessary**. I hoped we could understand each other and negotiate something fair.
 8. Then **I directly asked if they would allow peace**.
 ![Screenshot 2](screenshot_2.png)
-> **"If you wanted peace, you should have contacted me before building the club."** *~[KEC]Leader
+> **"If you wanted peace, you should have contacted me before building the club."** *~[KEC]Leader*
 9. **[KEC]Leader essentially declared war** at this point, for my *"building the club"*, not for anything violent or aggressive.
 10. I tried yet again to clarify my proposal and why I thought it would be good for both of us.
 11. I asked if we could make a deal, and then I went offline shortly after this point.
 ![Screenshot 3](screenshot_3.png)
-12. When I came back online six hours later, [KEC]Leader had gained over $300,000,000 in finance, clearly having spent a lot of money to grow so quick, and then attacked me and my team multiple times.
+12. When I came back online six hours later, [KEC]Leader had gained over $300,000,000 in finance, clearly having spent a lot of money to grow so quick, and had attacked me and my team multiple times.
 
 ## How it escalated
 
