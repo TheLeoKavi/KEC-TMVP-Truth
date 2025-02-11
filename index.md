@@ -5,7 +5,8 @@ title: KECvTMVP Truth
 
 # KECvTMVP Truth
 
-This is how it started, with screenshots for proof.
+## How it started
+_(with screenshots for proof)_
 
 1. I showed openly and honestly what I wanted. I labeled the Landmark “*Future* Strike”, so **my team would not attack before talks**, and a “Stop” pin, so my team **would not go further** *if* we did get the landmark. I also explained why I thought it would be good for both of us. I expected a negotiation.
 2. I pointed out that (at that time) we were evenly matched and should not fight.
@@ -17,16 +18,25 @@ This is how it started, with screenshots for proof.
 7. Then I asked for clarification about the apparent threat from [KEC]Leader, and **restated I wanted peace**, but would fight only **if necessary**. I hoped we could understand each other and negotiate something fair.
 8. Then **I directly asked if they would allow peace**.
 ![Screenshot 2](screenshot_2.png)
-9. [KEC]Leader stated, "*If you wanted peace, you should have contacted
-me before building the club.*" **Notice**: **[KEC]Leader essentially declared war** at this point, for my "building the club", not for anything violent or aggressive.
+
+> **"If you wanted peace, you should have contacted me before building the club."** *~[KEC]Leader
+
+9. **[KEC]Leader essentially declared war** at this point, for my *"building the club"*, not for anything violent or aggressive.
 10. I tried yet again to clarify my proposal and why I thought it would be good for both of us.
 11. I asked if we could make a deal, and then I went offline shortly after this point.
 ![Screenshot 3](screenshot_3.png)
-12. When I came back online six hours later, [KEC]Leader had gained over $300,000,000 in finance and had attacked me and my team multiple times.
-13. [KEC]Leader then began lying about it all to the public city chat.
+12. When I came back online six hours later, [KEC]Leader had gained over $300,000,000 in finance, clearly having spent a lot of money to grow so quick, and then attacked me and my team multiple times.
 
-Now, every time I'm offline for a few hours I come back to this:
+## How it escalated
+
+[KEC]Leader went into the public city chat and repeatedly lied about what happened. This lying continued for days.
+
+## Why it continues
+
+Now, every other time I'm offline for a few hours I come back to something like this:
 ![Screenshot 4](screenshot_4.png) 
+
+## Conclusion
 
 This should put to bed any doubts that [KEC]Leader is a **liar, a belligerent, and a coward**.
 
